@@ -1,0 +1,39 @@
+{
+  "dollies": [
+    {
+        "id":1,
+        "name":"Angela",
+        "description":"I am very loving",
+        "photo":" https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_2000,c_scale/shop-ag-prod/products/lt2owq63n7pltgluhjcv.png?v=1674107169",
+        "likes":0
+    },
+    {
+        "id":2,
+        "name":"Rose",
+        "description":"I love to play",
+        "photo":"https://cdn.shopify.com/s/files/1/0556/3993/3118/products/fhdkyqvicqlgxtb0xalz_886x.png?v=1675371173",
+        "likes":0
+    },
+    {
+        "id":3,
+        "name":"Stephanie",
+        "description":"I love juice",
+        "photo":" https://m.media-amazon.com/images/I/41jOAGxp3-L._AC_.jpg",
+        "likes":0
+    },
+    {
+        "id":4,
+        "name":"Jasmine",
+        "description":"I love hanging out with friends",
+        "photo":"https://target.scene7.com/is/image/Target/GUEST_6902550e-03ad-4370-a6cc-c1ec2ad46dde?wid=488&hei=488&fmt=pjpeg",
+        "likes":0
+    },
+    {
+        "id":5,
+        "name":"Mary",
+        "description":"I love singing",
+        "photo":"https://www.billboard.com/wp-content/uploads/2022/10/tina-turner-barbie-doll-2022-billboard-1548.jpg",
+        "likes":0
+    }
+  ]
+}

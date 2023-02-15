@@ -1,0 +1,60 @@
+body{
+    background-color: pink;
+}
+
+button, input[type='submit']{
+    padding:1rem;
+    background-color: aqua;
+    width:100px;
+    font-weight: 900;
+    font-size:1rem;
+}
+
+div{
+    margin:1rem auto;
+}
+
+input,button{
+    padding:1rem;
+    border-radius: 5px;
+}
+
+img{
+    width:200px;
+    height:200px;
+}
+
+#doll-display{
+    width:75%;
+    border:solid 5px black;
+    margin:1rem auto;
+    padding:1rem;
+    border-radius: 5px;
+}
+
+#doll-display *{
+    margin:1rem auto;
+    text-align: center;
+}
+
+#doll-display img{
+    display:block;
+}
+
+h1{
+    text-align:center;
+}
+
+form{
+    margin:0 auto;
+    border:solid 5px black;
+    padding:1rem;
+    width:75%;
+    border-radius: 5px;
+}
+
+img{
+    border:solid 2px black;
+    padding:1rem;
+    margin:1rem auto;
+}
